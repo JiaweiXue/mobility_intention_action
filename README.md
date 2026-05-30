@@ -21,9 +21,9 @@ Jiawei Xue, Takahiro Yabe, Kota Tsubouchi, Ruichen Tan, Satish V Ukkusuri\*, 202
 
 * **data/shapefile**: Define spatial boundaries of five Japanese cities.
 * **data/poi**: Specify Points of Interest (POIs) used in this study.
-* **src/ratio**: Compute the ratio of P(Go|Search) in P(Go|NotSearch).
+* **src/ratio**: Compute the ratio of P(Go|Search) to P(Go|NotSearch).
 * **src/distance**: Associate P(Go|Search) with user-POI distances.
-* **src/scaling**: Obtain distance-based scaling law of P(Go|Search).
+* **src/scaling**: Obtain distance-based scaling laws of P(Go|Search).
 * **src/case**: Conduct case studies on 22 POIs in Kyoto and Tokyo.
 * **src/temporal_decay**: Measure temporal decay of mobility intention and action gaps.
 * **src/returner_explorer**: Associate user mobility profiles with P(Go|Search).
