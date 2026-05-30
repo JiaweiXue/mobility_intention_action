@@ -1,0 +1,251 @@
+,index,name,lon,lat,type
+0,0,Jonan Elementary School,130.5611074,31.5821107,Elementary School
+1,1,Nakasu Elementary School,130.5441784,31.5798057,Elementary School
+2,2,Matsubara Elementary School,130.5589592,31.5854852,Elementary School
+3,3,Yamashita Elementary School,130.5502495,31.5909073,Elementary School
+4,4,Koto Junior High School,130.5542415,31.5853428,Junior High School
+5,5,Chuo High School,130.5498503,31.5863376,High School
+6,6,Konan High School,130.5463948,31.5786724,High School
+7,7,Konan Welfare Hall,130.5471474,31.5804246,Hall
+8,8,Matsubara Welfare Hall,130.5568911,31.5862381,Hall
+9,9,Sakamotodai Elementary School,130.552532,31.616129,Elementary School
+10,10,Dairyu Elementary School,130.5629195,31.6061788,Elementary School
+11,11,Meizan Elementary School,130.555458,31.596567,Elementary School
+12,12,Sakamoto Junior High School,130.5478975,31.6232037,Junior High School
+13,13,Shimizu Junior High School,130.5658199,31.6123959,Junior High School
+14,14,Nagata Junior High School,130.5591467,31.6002849,Junior High School
+15,15,Gyokuryu High School,130.5613661,31.61051,High School
+16,16,Kagoshima Commercial High School,130.5531215,31.6143399,High School
+17,17,Kagoshima Higashi High School,130.5638047,31.6221165,High School
+18,18,Kanmachi Welfare Hall,130.5666284,31.6091941,Hall
+19,19,Sakamoto Welfare Hall,130.5567563,31.6193846,Hall
+20,20,Tatebaba Welfare Hall,130.5604958,31.6044555,Hall
+21,21,Tamazato-danchi Welfare Hall,130.5424741,31.6188344,Hall
+22,22,Yanagi-machi Welfare Hall,130.5628623,31.6026835,Hall
+23,23,Iso Beach House,130.57501,31.6149684,House
+24,24,Chuo Community Center,130.554447,31.595326,Center
+25,25,Kagin Koyu-kai Gymnasium,130.552208,31.6369561,Gymnasium
+26,26,Welfare Community Center,130.572417,31.604098,Center
+27,27,Arata Elementary School,130.548484,31.575958,Elementary School
+28,28,Usuki Elementary School,130.5363028,31.5455352,Elementary School
+29,29,Kamoike Elementary School,130.5522199,31.5546486,Elementary School
+30,30,Nakagori Elementary School,130.5462682,31.5638768,Elementary School
+31,31,Nishi-murasakibaru Elementary School,130.5320366,31.5561411,Elementary School
+32,32,Minami Elementary School,130.5469359,31.5525706,Elementary School
+33,33,Murasakibaru Elementary School,130.5364795,31.5592726,Elementary School
+34,34,Yahata Elementary School,130.554214,31.57104,Elementary School
+35,35,Kamoike Junior High School,130.5536807,31.5536655,Junior High School
+36,36,Konan Junior High School,130.550142,31.57935,Junior High School
+37,37,Tempozan Junior High School,130.559472,31.575203,Junior High School
+38,38,Nishi-murasakibaru Junior High School,130.527166,31.557799,Junior High School
+39,39,Murasakibaru Junior High School,130.528687,31.564573,Junior High School
+40,40,Kagoshima Junshin Girls High School,130.5375698,31.5649237,High School
+41,41,Kagoshima University 2nd Gymnasium,130.5450637,31.568579,Gymnasium
+42,42,Usuki Nakama Welfare Hall,130.5272,31.552958,Hall
+43,43,Usuki Welfare Hall,130.5390299,31.5449283,Hall
+44,44,Kamoike Welfare Hall,130.5510171,31.5658625,Hall
+45,45,Nishi-murasakibaru Welfare Hall,130.5279884,31.5598376,Hall
+46,46,Masago Welfare Hall,130.5546866,31.5566356,Hall
+47,47,Murasakibaru Welfare Hall,130.532007,31.56114,Hall
+48,48,Yahata Welfare Hall,130.5535694,31.5747977,Hall
+49,49,Kamoike Community Center,130.5552826,31.5633945,Center
+50,50,Toso Community Center,130.5379273,31.5678746,Center
+51,51,Soumuta Elementary School,130.5471373,31.6036186,Elementary School
+52,52,Nishida Elementary School,130.535689,31.58994,Elementary School
+53,53,Harara Elementary School,130.534848,31.597547,Elementary School
+54,54,Meiwa Elementary School,130.522201,31.602021,Elementary School
+55,55,Josei Junior High School,130.5391836,31.5963447,Junior High School
+56,56,Kagoshima Technical High School,130.538453,31.608424,High School
+57,57,Kagoshima Girls High School,130.5397905,31.6127013,High School
+58,58,Tsurumaru High School,130.5381068,31.5895969,High School
+59,59,Josei Welfare Hall,130.5336062,31.5934365,Hall
+60,60,Tamazato Welfare Hall,130.5386302,31.6129792,Hall
+61,61,Meiwa Welfare Hall,130.5219355,31.6030483,Hall
+62,62,Kagoshima Arena,130.5360953,31.6018394,Center
+63,63,Josei Community Center,130.5410999,31.6027245,Center
+64,64,Seiryo Elementary School,130.516536,31.579446,Elementary School
+65,65,Tagami Elementary School,130.5265674,31.5794202,Elementary School
+66,66,Takeoka Elementary School,130.517321,31.591878,Elementary School
+67,67,Takeokadai Elementary School,130.5149001,31.5960548,Elementary School
+68,68,Take Elementary School,130.538579,31.577642,Elementary School
+69,69,Hiroki Elementary School,130.521352,31.565212,Elementary School
+70,70,Seiryo Junior High School,130.5053608,31.5821334,Junior High School
+71,71,Takeoka Junior High School,130.508653,31.599619,Junior High School
+72,72,Take Junior High School,130.533284,31.581096,Junior High School
+73,73,Seiryo Welfare Hall,130.5062485,31.5797213,Hall
+74,74,Tagamidai Welfare Hall,130.5220113,31.5703707,Hall
+75,75,Tagami Welfare Hall,130.528324,31.576586,Hall
+76,76,Takeoka Welfare Hall,130.5103055,31.5966639,Hall
+77,77,Take Welfare Hall,130.5367986,31.5836387,Hall
+78,78,Take Tagami Community Center,130.504048,31.591751,Center
+79,79,Takemachi Community Center,130.5390979,31.5817298,Center
+80,80,JA Kagoshima Mirai Tagami Branch,130.531465,31.57665,Hall
+81,81,Tagami-dannchi Community Center,130.5170264,31.5726459,Center
+82,82,Kotokuji Elementary School,130.4927246,31.5569004,Elementary School
+83,83,Sakuragaoka-nishi Elementary School,130.5110249,31.5540981,Elementary School
+84,84,Sakuragaoka-higashi Elementary School,130.5219187,31.5477625,Elementary School
+85,85,Seiwa Elementary School,130.5100282,31.5354922,Elementary School
+86,86,Chuzan Elementary School,130.5039268,31.5497081,Elementary School
+87,87,Hoshigamine-nishi Elementary School,130.4932291,31.5782151,Elementary School
+88,88,Hoshigamine-higashi Elementary School,130.503385,31.573511,Elementary School
+89,89,Miyakawa Elementary School,130.4840505,31.5636087,Elementary School
+90,90,Higashi-taniyama Elementary School,130.523045,31.54092,Elementary School
+91,91,Kotokuji Junior High School,130.487652,31.562637,Junior High School
+92,92,Taniyama-kita Junior High School,130.5049067,31.5627304,Junior High School
+93,93,La Salle High School,130.5284735,31.5300647,High School
+94,94,Kotokuji Welfare Hall,130.4954481,31.5614623,Hall
+95,95,Sakuragaoka Welfare Hall,130.5155598,31.5489693,Hall
+96,96,Taniyama-kita Welfare Hall,130.5043272,31.5637953,Hall
+97,97,Higashi-taniyama Welfare Hall,130.5196877,31.5348987,Hall
+98,98,Hoshigamine Welfare Hall,130.4941115,31.5763773,Hall
+99,99,Komatsubara Civic Hall,130.5300606,31.5342305,Hall
+100,100,JA Kagoshima Mirai Taniyama Tobu Branch,130.5242769,31.5336728,Building
+101,101,Kagoshima Prefecture Medical Corporation Nursing School,130.497354,31.547569,School
+102,102,Kinkodai Elementary School,130.4941625,31.4999189,Elementary School
+103,103,Suzuyama Elementary School,130.453433,31.496161,Elementary School
+104,104,Taniyama Elementary School,130.5175447,31.5223058,Elementary School
+105,105,Nishi-taniyama Elementary School,130.5013395,31.5241303,Elementary School
+106,106,Hirakawa Elementary School,130.514445,31.449796,Elementary School
+107,107,Fukuhira Elementary School,130.5015048,31.4780124,Elementary School
+108,108,Wada Elementary School,130.5115089,31.5104272,Elementary School
+109,109,Taniyama Junior High School,130.5103918,31.5239412,Junior High School
+110,110,Fukuhira Junior High School,130.4975745,31.4773229,Junior High School
+111,111,Wada Junior High School,130.5083864,31.507642,Junior High School
+112,112,International University of Kagoshima,130.4961538,31.4938,University
+113,113,Kagoshima Career Design College,130.5204538,31.5241963,College
+114,114,Sakanoue Welfare Hall,130.505795,31.497779,Hall
+115,115,Taniyama Welfare Hall,130.5117917,31.521797,Hall
+116,116,Nishi-taniyama Welfare Hall,130.5045146,31.5287269,Hall
+117,117,Hirakawa Welfare Hall,130.5129337,31.4506622,Hall
+118,118,Fukuhira Welfare Hall,130.5017374,31.4824973,Hall
+119,119,Wada Welfare Hall,130.5100898,31.5115845,Hall
+120,120,Kagoshima City Gymnasium,130.515444,31.503804,Gymnasium
+121,121,Taniyama Civic Hall,130.520171,31.518789,Hall
+122,122,Kagoshima Medical Professional College,130.5068192,31.4338866,College
+123,123,Ishiki Elementary School,130.5275574,31.627231,Elementary School
+124,124,Ishikidai Elementary School,130.5387418,31.6314314,Elementary School
+125,125,Inuzako Elementary School,130.496383,31.630027,Elementary School
+126,126,Keno Elementary School,130.529163,31.647304,Elementary School
+127,127,Koyamada Elementary School,130.4893514,31.6639371,Elementary School
+128,128,Tamae Elementary School,130.5338674,31.6127814,Elementary School
+129,129,Nishi-ishiki Elementary School,130.5358305,31.6403846,Elementary School
+130,130,Minayoshi Elementary School,130.5188347,31.6708352,Elementary School
+131,131,Sennen Community Center,130.5244143,31.6382198,Center
+132,132,Ishikidai Welfare Hall,130.5354799,31.6249394,Hall
+133,133,Keno Welfare Hall,130.5280713,31.6519424,Hall
+134,134,Nishi-ishiki Welfare Hall,130.5305186,31.6409436,Hall
+135,135,Ishiki Welfare Hall,130.5242002,31.6260031,Hall
+136,136,Ono Civic Hall,130.523067,31.6123352,Hall
+137,137,Kagoshima Health Village Park,130.502106,31.6448986,Park
+138,138,Hinatabira Jutaku Meeting Place,130.5383246,31.6202697,Center
+139,139,Inamura-shimo Community Center,130.4976116,31.6577661,Center
+140,140,Kamagahara Community Center,130.5012067,31.6562261,Center
+141,141,JA Kagoshima Mirai Shimo-ishiki Branch,130.535386,31.617862,Building
+142,142,JA Kagoshima MIrai Ono Branch,130.5246168,31.6128109,Building
+143,143,Nakanoko Community Center,130.484468,31.6678176,Center
+144,144,Hagi-beppu Community Center,130.4721396,31.6162394,Center
+145,145,Kawakami Elementary School,130.5547897,31.6521376,Elementary School
+146,146,Daimyoga-oka Elementary School,130.5651022,31.6288105,Elementary School
+147,147,Yoshino Elementary School,130.565552,31.638477,Elementary School
+148,148,Yoshino-higashi Elementary School,130.586269,31.6484413,Elementary School
+149,149,Midoriga-oka Junior High School,130.543856,31.656153,Junior High School
+150,150,Yoshino Junior High School,130.5727564,31.6467173,Junior High School
+151,151,Kawakami Welfare Hall,130.5539606,31.6530704,Hall
+152,152,Yoshino-higashi Welfare Hall,130.5841761,31.6475459,Hall
+153,153,Yoshino Welfare Hall,130.5690022,31.6355803,Hall
+154,154,Honmyo Elementary School,130.545257,31.700252,Elementary School
+155,155,Miya Elementary School,130.564906,31.676713,Elementary School
+156,156,Yoshida-kita Junior High School,130.5676327,31.7375617,Junior High School
+157,157,Yoshida-minami Junior High School,130.548804,31.689181,Junior High School
+158,158,Yoshida Community Center,130.558403,31.710521,Center
+159,159,Muregaoka-koku Community Center,130.5832796,31.6744395,Center
+160,160,Iyama Community Center,130.5432921,31.6867333,Center
+161,161,Ishige-dani Community Center,130.5559885,31.681972,Center
+162,162,Ushiro-nakamoto Community Center,130.5390795,31.7041308,Center
+163,163,Sage-zuru Community Center,130.5503577,31.730447,Center
+164,164,Miyanishi Community Center,130.5660643,31.6773055,Center
+165,165,Maki Community Center,130.5878844,31.6736054,Center
+166,166,Miyahigashi Community Center,130.5669536,31.6703381,Center
+167,167,Yoshimizu Community Center,130.5628209,31.6881909,Center
+168,168,Oshu Elementary School,130.608516,31.598025,Elementary School
+169,169,Oho Elementary School,130.6438141,31.6212612,Elementary School
+170,170,Kurokami Elementary School,130.707734,31.5925402,Elementary School
+171,171,Higashi-sakurajima Elementary School,130.6301385,31.5573235,Elementary School
+172,172,Kurokami Junior High School,130.7058172,31.5845071,Junior High School
+173,173,Sakurajima Junior High School,130.6332931,31.6214156,Junior High School
+174,174,Sakurajima Nursery School,130.6206749,31.6122232,School
+175,175,Arimura Shelter,130.6655478,31.5552916,Shelter
+176,176,Skurajima Port Ferry Terminal,130.6000697,31.5926174,Ferry
+177,177,Sakurajima-koku Community Center Shinjima Branch,130.7214915,31.6185644,Center
+178,178,Kagoshima City Hall Sakurajima Branch,130.6373572,31.5516734,Hall
+179,179,Akamizu Community Center,130.6097989,31.5729767,Center
+180,180,Sakurajima Shirahama Onsen Center,130.6619715,31.6259244,Center
+181,181,Akobaru Community Center,130.6091798,31.6021577,Center
+182,182,Koike Community Center,130.6064833,31.5972924,Center
+183,183,Take Community Center,130.6187153,31.6134095,Center
+184,184,Nishi-shirahama Community Center,130.6652024,31.6258569,Center
+185,185,Higashi-shirahama Community Center,130.6689403,31.6249994,Center
+186,186,Futamata Community Center,130.6584474,31.6255373,Center
+187,187,Kaishin Exchange Center,130.6498623,31.5535354,Center
+188,188,Sesekushi Elementary School,130.5201446,31.4226325,Elementary School
+189,189,Nakamyo Elementary School,130.5329973,31.3914535,Elementary School
+190,190,Hitokura Elementary School,130.523321,31.3514837,Elementary School
+191,191,Maenohama Elementary School,130.5510474,31.3437393,Elementary School
+192,192,Kiire Junior High School,130.5355836,31.3712397,Junior High School
+193,193,Kiire Community Center,130.542993,31.3746455,Center
+194,194,Sesekushi School Area Community Center,130.5214807,31.4220557,Center
+195,195,Nakamyo School Area Community Center,130.5338137,31.3924132,Center
+196,196,Nukumi Shool Area Community Center,130.5704893,31.3119111,Center
+197,197,Hitokura School Area Community Center,130.5221405,31.3516759,Center
+198,198,Maenohama School Area Community Center,130.5503997,31.3428296,Center
+199,199,Nursing Home Kiire-en,130.5348286,31.3749784,Building
+200,200,Seiwa Community Center,130.5099518,31.4324445,Center
+201,201,Tanuki Ebisu-kan,130.5811089,31.3056074,Building
+202,202,Morimitsu Multipurpose Common Facility,130.5736243,31.3094425,Facility
+203,203,Ishitani Elementary School,130.459867,31.6128142,Elementary School
+204,204,Tosho Elementary School,130.4164893,31.5841313,Elementary School
+205,205,Haruyama Elementary School,130.4570219,31.5837297,Elementary School
+206,206,Matsumoto Elementary School,130.4351436,31.606499,Elementary School
+207,207,Matsumoto Junior High School,130.4347843,31.6011976,Junior High School
+208,208,Matsumoto Hiranooka Gymnasium,130.4284712,31.5958617,Gymnasium
+209,209,Matsumoto Health Center,130.434146,31.6048778,Center
+210,210,Irisa Agricultural Training Center,130.4100618,31.5906539,Center
+211,211,Shoyo High School,130.4532347,31.5993577,High School
+212,212,Haruyama Area Community Center,130.4556841,31.5766594,Center
+213,213,Hirata Area Community Center,130.4292382,31.5539646,Center
+214,214,Koriyama Elementary School,130.4674435,31.6810494,Elementary School
+215,215,Minamikata Elementary School,130.5056305,31.6782657,Elementary School
+216,216,Hanao Elementary School,130.4926793,31.7051626,Elementary School
+217,217,Koriyama Junior High School,130.4693434,31.679538,Junior High School
+218,218,Koriyama Community Center,130.477062,31.6798293,Center
+219,219,Koriyama East Side Training Center,130.5000178,31.6908945,Center
+220,220,Nishi-arisato Training Center,130.455941,31.678782,Center
+221,221,Hondake Fureai Center,130.4418398,31.7062395,Center
+222,222,Koriyama Sports Ground,130.4931158,31.6762096,Building
+223,223,Oura Agricultural Structure Improvement Center,130.4654878,31.715742,Center
+224,224,Kotsuki Community Center,130.466354,31.6889241,Center
+225,225,Satodake Community Center,130.4532045,31.6835525,Center
+226,226,Tokiwa Community Center,130.4591811,31.6975101,Center
+227,227,Hirabaru Community Center,130.4464848,31.7045866,Center
+228,228,Maruyama Community Center,130.516361,31.7031294,Center
+229,229,Uwaba Elementary School,130.4771769,32.1026479,Elementary School
+230,230,Okawauchi Agricultural Training Center,130.4418432,32.0729802,Center
+231,231,Izumi City Hall,130.352647,32.0905307,Hall
+232,232,Higashi-izumi Elementary School,130.367278,32.080338,Elementary School
+233,233,NTT Izumi Bldg,130.355597,32.0872142,Building
+234,234,Izumi Health Center,130.3529949,32.0932331,Center
+235,235,Obaruyama Gym,130.3470788,32.0556792,Gymnasium
+236,236,Izumi Elementary School,130.3586942,32.0746973,Elementary School
+237,237,Izumi City Community Center,130.357283,32.081756,Center
+238,238,Izumi Junior High School,130.3480978,32.0815043,Junior High School
+239,239,Nishi-izumi Elementary School,130.3405548,32.0749493,Elementary School
+240,240,Koreisha Fureai Center,130.3301766,32.0872511,Center
+241,241,Kizushi Elementary School,130.3645663,32.1552273,Elementary School
+242,242,Komenotsu Noson Kaizen Center,130.3557028,32.1442645,Center
+243,243,Komenotsu-higashi Elementary School,130.3427965,32.1194857,Elementary School
+244,244,Komenotsu Junior High School,130.335009,32.1131305,Junior High School
+245,245,Komenotsu Elementary School,130.3254958,32.1078043,Elementary School
+246,246,Fukunoe Nursery School,130.316272,32.102573,School
+247,247,Kakusho Gakuen,130.2804386,32.0858185,School
+248,248,Takaono Elementary School,130.296823,32.061468,Elementary School
+249,249,Takaono Junior High School,130.298446,32.0587576,Junior High School

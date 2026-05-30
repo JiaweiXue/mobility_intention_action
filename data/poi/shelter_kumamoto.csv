@@ -1,0 +1,271 @@
+,index,name,lon,lat,type
+0,0,Izumi Elementary School,130.731218,32.789012,Elementary School
+1,1,Kumamoto Kokufu High School,130.728218,32.787735,High School
+2,2,Izumi-Minami Elementary School,130.73056,32.782922,Elementary School
+3,3,Izumi Junior High School,130.726915,32.783818,Junior High School
+4,4,Izumi-Minami Junior High School,130.72803,32.775144,Junior High School
+5,5,Yushinkan High School,130.730586,32.781433,High School
+6,6,Issin Elementary School,130.694912,32.802807,Elementary School
+7,7,Seizan Junior High School,130.692927,32.803201,Junior High School
+8,8,Ninomaru Park,130.70184,32.806976,Park
+9,9,Daiichi High School,130.700663,32.801571,High School
+10,10,Oe Community Activity Support Office,130.724866,32.798974,Center
+11,11,Oe Elementary School,130.725667,32.801528,Elementary School
+12,12,Shirakawa Junior High School,130.722371,32.803838,Junior High School
+13,13,Kyushu Gakuin Lutheran High School,130.721299,32.797975,High School
+14,14,Kumamoto University Oe Gymnasium,130.714119,32.792934,Gymnasium
+15,15,Kaishin High School,130.725414,32.799667,High School
+16,16,Kumamoto Gakuen University,130.728975,32.804637,University
+17,17,Kokaibashi Joryu-Sagan,130.722942,32.811272,Bridge
+18,18,Obiyama Elementary School,130.74104,32.80212,Elementary School
+19,19,Obiyama 7-chome Donguri Park,130.758136,32.80733,Park
+20,20,Obiyama-Nishi Elementary School,130.741462,32.80255,Elementary School
+21,21,Obiyama Junior High School,130.744646,32.801232,Junior High School
+22,22,Kurokami Elementary School,130.719987,32.814686,Elementary School
+23,23,Sakurayama Junior High School,130.731838,32.816298,Junior High School
+24,24,Ryunan Junior High School,130.715096,32.817743,Junior High School
+25,25,Hitsuyukan High School,130.713969,32.815595,High School
+26,26,Kumamoto University Kurokami Athletic Field,130.725449,32.815571,Gymnasium
+27,27,Kokaibashi Joryu-Ugan,130.725371,32.811271,Bridge
+28,28,Seiseiko High School,130.723965,32.817298,High School
+29,29,Sun Life Kumamoto,130.719932,32.819827,Hall
+30,30,Tsuboi Chuo Park,130.717113,32.820081,Park
+31,31,Keitoku Elementary School,130.701619,32.796876,Elementary School
+32,32,Kozan Elementary School,130.700036,32.789199,Elementary School
+33,33,Konan Junior High School,130.698986,32.787446,Junior High School
+34,34,Ryokuchi Park next to Shirakawa Bridge,130.693465,32.789553,Park
+35,35,Chorokubashi Jokaryu-Sagan,130.703299,32.794072,Park
+36,36,Kosen Elementary School,130.710029,32.812921,Elementary School
+37,37,Keiryo Junior High School,130.704151,32.81673,Junior High School
+38,38,"Elementary School and Junior High School Attached to Faculty of
+Education, Kumamoto University",130.703503,32.818671,Junior High School
+39,39,Gofuku Elementary School,130.695796,32.795646,Elementary School
+40,40,Gofuku Community Activity Support Office,130.724868,32.798994,Center
+41,41,Joto Elementary School,130.708687,32.808508,Elementary School
+42,42,Toen Junior High School,130.707943,32.808619,Junior High School
+43,43,Ginzabashi-ittai Shirakawa Kawagishi,130.712774,32.800024,Park
+44,44,Shirakawa Elementary School,130.716769,32.802274,Elementary School
+45,45,Kumamoto University Honjo Gymnasium,130.714154,32.793067,Gymnasium
+46,46,Sunatori Elementary School,130.738219,32.786814,Elementary School
+47,47,Kumamoto Shogyo High School,130.73998,32.786348,High School
+48,48,Kumamoto Kogyo High School,130.747209,32.791923,High School
+49,49,Suizenji Athletic Stadium,130.740608,32.794346,Stadium
+50,50,Suizenji Athletic Park,130.73954,32.793975,Park
+51,51,Suizenji Section of Suizenji Ezuko Park,130.734825,32.789145,Park
+52,52,Kumamoto City Gymnasium,130.736287,32.785104,Gymnasium
+53,53,Chuo Community Center,130.715331,32.804677,Center
+54,54,Sekidai Elementary School,130.718144,32.809192,Elementary School
+55,55,Shirakawa Park,130.714937,32.805201,Park
+56,56,Takumabaru Elementary School,130.735239,32.803929,Elementary School
+57,57,Kumamoto High School,130.72905,32.799703,High School
+58,58,Toroku Park,130.732607,32.806391,Park
+59,59,Hakuzan Elementary School,130.719895,32.789359,Elementary School
+60,60,Kumamoto University School of Pharmacy Athletic Field,130.720973,32.793458,Field
+61,61,Harutake Elementary School,130.707413,32.788091,Elementary School
+62,62,Kogen Junior High School,130.705347,32.783893,Junior High School
+63,63,Hachioji Chuo Park,130.71713,32.780897,Park
+64,64,Honjo Elementary School,130.708323,32.792515,Elementary School
+65,65,Akitsu Community Development Center,130.773289,32.771301,Center
+66,66,Akitsu Elementary School,130.77181,32.772206,Elementary School
+67,67,Higashino Junior High School,130.767732,32.77468,Junior High School
+68,68,Akitsu 3-chome Park,130.77181,32.770582,Park
+69,69,Akitsu-Nishi Park,130.769076,32.775925,Park
+70,70,Nuyamazu Park,130.77755,32.775755,Park
+71,71,Izumigaoka Elementary School,130.753239,32.776421,Elementary School
+72,72,Hirogi Section of Suizenji Ezuko Park,130.755977,32.767142,Park
+73,73,Ezu Elementary School,130.73981,32.767106,Elementary School
+74,74,Environmental Research Center,130.734282,32.764108,Center
+75,75,Tobu Community Center,130.753636,32.788314,Center
+76,76,Onoue Elementary School,130.754012,32.793174,Elementary School
+77,77,Nishikigaoka Junior High School,130.757043,32.790499,Junior High School
+78,78,Nishikigaoka Park,130.753585,32.791841,Park
+79,79,Kengun Elementary School,130.752041,32.783954,Elementary School
+80,80,Kumamoto Marist High School,130.750261,32.783638,High School
+81,81,Koto Junior High School,130.747802,32.780926,Junior High School
+82,82,Shoguchi Park in Suizenji Ezuko Park,130.753164,32.778776,Park
+83,83,Kengun-Higashi Elementary School,130.764607,32.782846,Elementary School
+84,84,Higashimachi Junior High School,130.764948,32.782084,Junior High School
+85,85,Sakuragi Elementary School,130.777461,32.781626,Elementary School
+86,86,Sakuragi-Higashi Elementary School,130.781735,32.788132,Elementary School
+87,87,Sakuragi Junior High School,130.783107,32.78278,Junior High School
+88,88,Takuma-Kita Elementary School,130.774207,32.838803,Elementary School
+89,89,Tobu Junior High School,130.770926,32.833513,Junior High School
+90,90,Takuma Sport Center,130.774946,32.837741,Center
+91,91,Takuma-Nishi Elementary School,130.766261,32.821638,Elementary School
+92,92,Takuma-Higashi Elementary School,130.793565,32.824337,Elementary School
+93,93,Futaoka Junior High School,130.792525,32.823955,Junior High School
+94,94,Takuma Community Development Center,130.779058,32.827973,Center
+95,95,Takuma-Minami Elementary School,130.776462,32.81769,Elementary School
+96,96,Takuma-Minami Chuo Park,130.775257,32.824548,Park
+97,97,Tsukide Elementary School,130.770376,32.804906,Elementary School
+98,98,Prefectural University of Kumamoto,130.765488,32.80562,University
+99,99,Nagamine Elementary School,130.778893,32.812441,Elementary School
+100,100,Nagamine Junior High School,130.77757,32.813803,Junior High School
+101,101,Nagamine Park,130.77459,32.809743,Park
+102,102,Kaori-no-Mori Park,130.787164,32.801934,Park
+103,103,Nishibaru Elementary School,130.748506,32.812635,Elementary School
+104,104,Nishibaru Junior High School,130.75621,32.809882,Junior High School
+105,105,Tokai University Kumamoto Seisho Senior High School,130.744585,32.812605,High School
+106,106,Hotakubo Park,130.752603,32.811816,Park
+107,107,Higashimachi Elementary School,130.768131,32.787036,Elementary School
+108,108,Daini High School,130.766668,32.781509,High School
+109,109,Yamanouchi Elementary School,130.770605,32.797804,Elementary School
+110,110,Yamanouchi Chuo Park,130.768698,32.796867,Park
+111,111,Toryo High School,130.77826,32.79914,High School
+112,112,Wakaba Elementary School,130.763497,32.772341,Elementary School
+113,113,Kengun Cultural Hall,130.761891,32.775317,Hall
+114,114,Ikeda Elementary School,130.703879,32.824944,Elementary School
+115,115,Iseri Junior High School,130.69868,32.821533,Junior High School
+116,116,Ikeda 1-chome Nishi Children's Park,130.705021,32.822247,Park
+117,117,Ikegame Park,130.694955,32.824042,Park
+118,118,Ikeoue Elementary School,130.671061,32.790883,Elementary School
+119,119,Sanwa Junior High School,130.665261,32.785643,Junior High School
+120,120,Ikenoue Chuo Park,130.676524,32.789025,Park
+121,121,Seibu Community Center,130.647507,32.776216,Center
+122,122,Oshima Elementary School,130.63481,32.778825,Elementary School
+123,123,Josei Junior High School,130.633132,32.781527,Junior High School
+124,124,Seibu Community Activity Center,130.646373,32.77629,Center
+125,125,Oshima Park,130.636284,32.776351,Park
+126,126,Kasuga Elementary School,130.685866,32.789593,Elementary School
+127,127,Kumamoto Shintoshin Plaza,130.691374,32.790201,Plaza
+128,128,Kawachi Community Activity Support Office,130.584111,32.836776,Center
+129,129,Kawachi Elementary School,130.591605,32.828555,Elementary School
+130,130,Kawachi Elemetary? Shirahama Branch Scool,130.586929,32.841733,Elementary School
+131,131,Kawachi Junior High School,130.590843,32.828773,Junior High School
+132,132,Jozan Elementary School,130.657728,32.778119,Elementary School
+133,133,Kumamoto-Nishi High School,130.648563,32.782492,High School
+134,134,Seibu Incineration Plant,130.646346,32.773734,Plant
+135,135,Jozan Park Athletic Facility,130.651006,32.775516,Facility
+136,136,Josei Elementary School,130.682973,32.805323,Elementary School
+137,137,Chiharadai High School,130.686635,32.806407,High School
+138,138,Furusho Park,130.680521,32.813726,Park
+139,139,Ishigamiyama Park,130.679657,32.810927,Park
+140,140,Shiratsubo Elementary School,130.684101,32.777305,Elementary School
+141,141,Karyo Junior High School,130.678501,32.779142,Junior High School
+142,142,Rendaiji Park,130.684033,32.774852,Park
+143,143,Takahashi Elementary School,130.656369,32.784052,Elementary School
+144,144,Nakashima Elementary School,130.629456,32.76656,Elementary School
+145,145,Nakashima Chuo Park,130.627269,32.766753,Park
+146,146,Shirakawa Nakahara Ryokuchi Park,130.635711,32.773329,Park
+147,147,Hanazono Community Development Center,130.694882,32.817378,Center
+148,148,Hanazono Elementary School,130.690822,32.822526,Elementary School
+149,149,Hanazono 5-chome Park,130.692295,32.822162,Park
+150,150,Kakibaru Park,130.685379,32.8256,Park
+151,151,Furumachi Elementary School,130.689621,32.782058,Elementary School
+152,152,Matsuo-Kita Elementary School,130.625243,32.812788,Elementary School
+153,153,Matsuo-Nishi Elementary School,130.614441,32.797712,Elementary School
+154,154,Matsuo-Higashi Elementary School,130.634956,32.796655,Elementary School
+155,155,Yoshino Elementary School,130.643027,32.842349,Elementary School
+156,156,Yoshino Junior High School,130.640801,32.840843,Junior High School
+157,157,Yoshino Community Center,130.643013,32.843301,Center
+158,158,Akita-Higashi Elementary School,130.662541,32.76331,Elementary School
+159,159,Akita Junior High School,130.654028,32.76013,Junior High School
+160,160,Akita Park Athletic Field,130.65162,32.757735,Field
+161,161,Shirakawa Akita Ryokuchi Park,130.657671,32.768373,Park
+162,162,Akita-Nishi Elementary School,130.634174,32.754632,Elementary School
+163,163,Akita Community Development Center,130.653311,32.754199,Center
+164,164,Akita-Minami Elementary School,130.662817,32.749937,Elementary School
+165,165,Okukoga Elementary School,130.624347,32.730151,Elementary School
+166,166,Tenmei Junior High School,130.636148,32.734208,Junior High School
+167,167,Tenmei Gymnasium,130.63598,32.732649,Gymnasium
+168,168,Tenmei Community Development Center,130.636652,32.732721,Center
+169,169,Kawaguchi Elementary School,130.627179,32.717431,Elementary School
+170,170,Kawashiri Elementary School,130.680971,32.739895,Elementary School
+171,171,Jonan Junior High School,130.687165,32.743699,Junior High School
+172,172,Kumamoto Nogyo High School,130.69406,32.743972,High School
+173,173,Midorikawa No.1 Ryokuchi Park,130.699389,32.736958,Park
+174,174,Midorikawa No.2 Ryokuchi Park,130.689415,32.731711,Park
+175,175,Nambu Community Development Center,130.686202,32.748048,Center
+176,176,Jonan Elementary School,130.691209,32.751277,Elementary School
+177,177,Zendomo Elementary School,130.645856,32.741446,Elementary School
+178,178,Tamukae Elementary School,130.719788,32.768389,Elementary School
+179,179,Takuma Junior High School,130.716699,32.772156,Junior High School
+180,180,Tamukae Idenakama Park,130.711307,32.77068,Park
+181,181,Tamukae-Nishi Elementary School,130.705525,32.773844,Elementary School
+182,182,Heisei Chuo Park,130.705392,32.776642,Park
+183,183,Tamukae-Minami Elementary School,130.724796,32.76315,Elementary School
+184,184,Tamukae Park Athletic Facility,130.728088,32.759132,Facility
+185,185,Tomiai Elementary School,130.680896,32.713654,Elementary School
+186,186,Tomiai Junior High School,130.684359,32.706738,Junior High School
+187,187,Tomiai Gankaikan Sports Facility,130.678289,32.715202,Facility
+188,188,Tomiai Community Center,130.677953,32.71623,Center
+189,189,Nakamidori Elementary School,130.66016,32.730486,Elementary School
+190,190,Hiyoshi Elementary School,130.68938,32.766567,Elementary School
+191,191,Shirakawa Hirata Juzenji Ryokuchi Park,130.692172,32.777486,Park
+192,192,Hiyoshi-Higashi Elementary School,130.698595,32.765328,Elementary School
+193,193,Hiyoshi Junior High School,130.699635,32.764167,Junior High School
+194,194,Koda Community Development Center,130.636818,32.732635,Center
+195,195,Miyuki Elementary School,130.716088,32.75412,Elementary School
+196,196,Kibe Chuo Park,130.715135,32.749167,Park
+197,197,Miyuki Chuo Park,130.708456,32.76571,Park
+198,198,Fueda Chuo Park,130.71247,32.758101,Park
+199,199,Rikigo Elementary School,130.681236,32.758217,Elementary School
+200,200,Rikigo Junior High School,130.677849,32.761636,Junior High School
+201,201,Shirafuji Park,130.681371,32.74884,Park
+202,202,Karikusa Chuo Park,130.681976,32.761715,Park
+203,203,Rikigo-Nishi Elementary School,130.671733,32.762923,Elementary School
+204,204,Nambu General Sports Center,130.673571,32.754984,Center
+205,205,Aqua Dome Kumamoto,130.667832,32.763286,Center
+206,206,Jonan Welfare Center,130.728423,32.708616,Center
+207,207,Jonan General Sports Center,130.748842,32.708091,Center
+208,208,Hinokimi Cultural Center,130.739875,32.706906,Center
+209,209,Shimomashiki Jonan Junior High School,130.729665,32.710103,Junior High School
+210,210,Kumanosho Elementary School,130.726745,32.707927,Elementary School
+211,211,Sugikami Elementary School,130.727973,32.724598,Elementary School
+212,212,Jonan Regional Products Center,130.738566,32.723271,Center
+213,213,Taka Ground,130.713749,32.725796,Park
+214,214,Toyoda Elementary School,130.74521,32.68991,Elementary School
+215,215,Asoda Elementary School,130.74421,32.851789,Elementary School
+216,216,Shimizu-Shinchi Park,130.747333,32.854861,Park
+217,217,Goryo Junior High School,130.690775,32.904987,Junior High School
+218,218,Ueki Elementary School,130.693439,32.896053,Elementary School
+219,219,Hokubu Community Development Center,130.702995,32.869758,Center
+220,220,Kawakami Elementary School,130.704257,32.870779,Elementary School
+221,221,Hokubu Junior High School,130.70345,32.868172,Junior High School
+222,222,Kusunoki Elementary School,130.758931,32.851032,Elementary School
+223,223,Kusunoki Chuo Park,130.756696,32.847935,Park
+224,224,Kanan Junior High School,130.674506,32.897202,Junior High School
+225,225,Sakurai Elementary School,130.684346,32.888543,Elementary School
+226,226,Shibafu Park,130.697024,32.902949,Park
+227,227,Santo Elementary School,130.708202,32.912583,Elementary School
+228,228,Ueki Chuo Park Athletic Facility,130.700348,32.902721,Facility
+229,229,Ueki Cultural Center,130.695303,32.903716,Center
+230,230,Roadside Rest Area: Suika-no-Sato,130.693312,32.907986,Hall
+231,231,Shimizu Community Development Center,130.721874,32.841103,Center
+232,232,Shimizu Elementary School,130.72361,32.832671,Elementary School
+233,233,Shimizu Sports Center,130.728647,32.829694,Center
+234,234,Tsuboikawa Ryokuchi Park,130.72015,32.823655,Park
+235,235,Johoku Elementary School,130.730413,32.849579,Elementary School
+236,236,Shimizu Junior High School,130.733868,32.849368,Junior High School
+237,237,Hakenomiya Park,130.722228,32.845154,Park
+238,238,Takahiradai Elementary School,130.713144,32.833714,Elementary School
+239,239,Tasoko Elementary School,130.717108,32.962508,Elementary School
+240,240,Tatsuda Community Development Center,130.764298,32.844198,Center
+241,241,Tatsuda Gymnasium,130.751857,32.837748,Gymnasium
+242,242,Musashizuka Martial Arts Gym,130.764381,32.844622,Gymnasium
+243,243,Tatsuda Elementary School,130.761132,32.83817,Elementary School
+244,244,Tatsuda Junior High School,130.761239,32.836153,Junior High School
+245,245,Musashizuka Park,130.764946,32.844885,Park
+246,246,Tatsuda-Nishi Elementary School,130.745392,32.828396,Elementary School
+247,247,Tabaru Elementary School,130.66497,32.91026,Elementary School
+248,248,Tabaru Sports Park,130.662632,32.908267,Park
+249,249,Nishizato Elementary School,130.701972,32.854139,Elementary School
+250,250,TKU Plaza,130.709122,32.839486,Plaza
+251,251,Imakuma Park,130.684862,32.864554,Park
+252,252,Hokubu Park,130.704105,32.865204,Park
+253,253,Foodpal Kumamoto Exchange Hall,130.695768,32.848408,Hall
+254,254,Nirenoki Elementary School,130.753348,32.8479,Elementary School
+255,255,Kusunoki Junior High School,130.755079,32.848283,Junior High School
+256,256,Kumamoto-Kita High School,130.746457,32.84116,High School
+257,257,Hishigata Elementary School,130.660731,32.883052,Elementary School
+258,258,Hokubu-Higashi Elementary School,130.723677,32.859997,Elementary School
+259,259,Resource Center for Working Youth,130.724643,32.861792,Center
+260,260,Musashi Elementary School,130.76826,32.854523,Elementary School
+261,261,Musashi Junior High School,130.772261,32.856641,Junior High School
+262,262,Musashigaoka Chuo Park,130.769705,32.856265,Park
+263,263,Yuge Elementary School,130.781334,32.853115,Elementary School
+264,264,Yamamoto Elementary School,130.681805,32.937227,Elementary School
+265,265,Ueki General Sports Center Park,130.700464,32.903007,Park
+266,266,Ueki-Kita Junior High School,130.717632,32.944744,Junior High School
+267,267,Yoshimatsu Elementary School,130.709687,32.940875,Elementary School
+268,268,Yosimatsu Sports Park,130.703145,32.934381,Park
